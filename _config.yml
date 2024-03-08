@@ -34,7 +34,7 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: 最终归属权于原神小窝所有
+  name: by 原神小窝
   email: example@domain.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
@@ -95,7 +95,7 @@ avatar: "/commons/avatar.jpg"
 social_preview_image: # string, local or CORS resources
 
 # boolean type, the global switch for TOC in posts.
-toc: true
+toc: false
 
 comments:
   # Global switch for the post comment system. Keeping it empty means disabled.
